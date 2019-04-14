@@ -51,7 +51,7 @@ G,https://github.com/ContinuedBug/idwm,"is my custom build of suckless's window 
 A,nerd-fonts-complete,"Fonts"
 A,brave-dev-bin,"Brave Browser"
 ,keepassxc,"Password Manager"
-A,visual-studio-code-bin,"IDE"
+A,vscodium,"Binary releases of VS Code without MS branding/telemetry/licensing."
 ,nautilus,"Sometimes ranger sucks"
 ,ffmpegthumbnailer,"thumbnail for videos"
 ,vifm,"file manager"
